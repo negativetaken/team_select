@@ -1,0 +1,23 @@
+<meta>
+
+	<!-- 
+
+		kgt_teamselect - negative
+
+	-->
+
+	<script src = 'settings.lua' type = 'shared' cache = 'false'/>
+	<script src = 'client.lua' type = 'client' cache = 'false'/>
+
+	<file src = 'files/aztecasfalse.png'/>
+	<file src = 'files/aztecastrue.png'/>
+	<file src = 'files/ballastrue.png'/>
+	<file src = 'files/ballasfalse.png'/>
+	<file src = 'files/grovefalse.png'/>
+	<file src = 'files/grovetrue.png'/>
+	<file src = 'files/vagosfalse.png'/>
+	<file src = 'files/vagostrue.png'/>
+
+	<oop>true</oop>
+
+</meta>
